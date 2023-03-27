@@ -9,7 +9,7 @@ into disrupting and nondisrupting and provides a comprehensive analysis on candi
 associated genes, their most frequently disrupted interaction partners, cancer patients and 
 several cancer cohorts in TCGA project.
 
-For more information, please refer to the article which can be found at [here](https://www.google.com).
+For more information, please refer to the article which can be found at [here](https://ieeexplore.ieee.org/document/10081505).
 
 <br/>
 <p align="center">
@@ -57,7 +57,7 @@ Jupyter notebook _Reproduced_PredatorStudyModel.ipynb_ will be created in _repro
 
 ### Predictions on the TCGA Mutation Datasets
 
-Trained Predator model can be applied to TCG mutation datasets with 
+Trained Predator model can be applied to TCGA mutation datasets with 
 _reproducable_01_training_predator.py_. The script also allows the selection of 
 the model to be used in the prediction task. Simply run the following command to execute:
 
